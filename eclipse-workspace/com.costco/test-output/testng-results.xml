@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-12T22:06:18 EDT" name="Default suite" finished-at="2024-08-12T22:06:27 EDT" duration-ms="9759">
+    <groups>
+    </groups>
+    <test started-at="2024-08-12T22:06:18 EDT" name="Default test" finished-at="2024-08-12T22:06:27 EDT" duration-ms="9759">
+      <class name="test.Demo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Demo@7d4f9aae]" started-at="2024-08-12T22:06:18 EDT" name="setUp" finished-at="2024-08-12T22:06:27 EDT" duration-ms="9454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="demoTest()[pri:0, instance:test.Demo@7d4f9aae]" started-at="2024-08-12T22:06:27 EDT" name="demoTest" finished-at="2024-08-12T22:06:27 EDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoTest -->
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:test.Demo@7d4f9aae]" started-at="2024-08-12T22:06:27 EDT" name="tearUp" finished-at="2024-08-12T22:06:27 EDT" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+      </class> <!-- test.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
